@@ -2,6 +2,8 @@
 Peer- and non-peer reviewed papers
 
 
+<!-- ** TODO **: Towards a Holistic and Functional Model-Based Design Method for Mechatronic Cyber-Physical Systems. *In Journal of Mechanical Design, 2022. Link -->
+
 1.  **N. Olivain, P. Tiefenbacher and J. Kohl.**: Bayesian structural learning for an improved diagnosis of cyber-physical systems. *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf).
 2.  **G. Höpfner, G. Jacobs, T. Zerwas, I. Drave, J. Berroth, C. Guist, B. Rumpe and J. Kohl**: Model-based design workflows for cyber-physical systems applied to an electric-mechanical coolant pump. *In IOP Conference Series: Materials Science and Engineering, volume 1097, page 012004. IOP Publishing*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Model-Based%20Design%20Workflows%20for%20Cyber-Physical%20Systems%20Applied%20to%20an%20Electric-Mechanical%20Coolant%20Pump.pdf).
 3.  **T. Zerwas, G. Jacobs, K. Spütz, G. Höpfner, I. Drave, J. Berroth, C. Guist, C. Konrad, B. Rumpe and J. Kohl**: Mechanical concept development using principle solution models. *In IOP Conference Series: Materials Science and Engineering, volume 1097, page 012001. IOP Publishing, 2021.* Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Mechanical%20concept%20development%20using%20principle%20solution%20models.pdf).
