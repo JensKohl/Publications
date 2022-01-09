@@ -17,5 +17,5 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 
 ** C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2021. Link: [German Patent Office](https://patentimages.storage.googleapis.com/a7/c7/cb/16b1c2d0049c53/DE102019134446A1.pdf).
 
-1 additional patent in publication progress.
+1 additional patent in application/ approval.
 <!-- ** P. Tiefenbacher, T. Billinger, J. Kohl**: Using Reinforcement Learning for the Emissioning of an automotive vehicle. -->
