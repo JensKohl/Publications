@@ -3,7 +3,7 @@ Peer- and non-peer reviewed papers
 
 
 1. **T. Zerwas**, **G. Jacobs**, **L. Brand**, **S. Dehn**, **K. Spütz**, **G. Höpfner**, **C. Matz**, **C. Guist**, **J. Berroth**, **C. Konrad**, **J. Kohl**: 
-Customer-centric and function-oriented development of mechatronic systems, 2022. In publication.
+Customer-centric and function-oriented development of mechatronic systems, 2023. In publication.
 2. **G. Höpfner, I. Nachmann, T. Zerwas, J. Berroth, J. Kohl, C. Guist, B. Rumpe, G. Jacobs**: Towards a Holistic and Functional Model-Based Design Method for Mechatronic Cyber-Physical Systems. In *Journal of Mechanical Design*, 2023. [Link](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4056807/1156489/Towards-a-Holistic-and-Functional-Model-Based)
 3.  **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems. *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf).
 4.  **G. Höpfner, G. Jacobs, T. Zerwas, I. Drave, J. Berroth, C. Guist, B. Rumpe and J. Kohl**: Model-based design workflows for cyber-physical systems applied to an electric-mechanical coolant pump. In *IOP Conference Series: Materials Science and Engineering, volume 1097, page 012004. IOP Publishing*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Model-Based%20Design%20Workflows%20for%20Cyber-Physical%20Systems%20Applied%20to%20an%20Electric-Mechanical%20Coolant%20Pump.pdf).
