@@ -1,9 +1,9 @@
 # Publications
-Peer- and non-peer reviewed papers
 
+## Peer- and non-peer reviewed papers
 
 1. **T. Zerwas**, **G. Jacobs**, **L. Brand**, **S. Dehn**, **K. Spütz**, **G. Höpfner**, **C. Matz**, **C. Guist**, **J. Berroth**, **C. Konrad**, **J. Kohl**: 
-Customer-centric and function-oriented development of mechatronic systems, 2023. In publication.
+Customer-centric and function-oriented development of mechatronic systems, 2023. In *Forschung im Ingenieurwesen*, 2023. [Link](https://link.springer.com/article/10.1007/s10010-023-00658-7).
 2. **G. Höpfner, I. Nachmann, T. Zerwas, J. Berroth, J. Kohl, C. Guist, B. Rumpe, G. Jacobs**: Towards a Holistic and Functional Model-Based Design Method for Mechatronic Cyber-Physical Systems. In *Journal of Mechanical Design*, 2023. [Link](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4056807/1156489/Towards-a-Holistic-and-Functional-Model-Based)
 3.  **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems. *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf).
 4.  **G. Höpfner, G. Jacobs, T. Zerwas, I. Drave, J. Berroth, C. Guist, B. Rumpe and J. Kohl**: Model-based design workflows for cyber-physical systems applied to an electric-mechanical coolant pump. In *IOP Conference Series: Materials Science and Engineering, volume 1097, page 012004. IOP Publishing*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Model-Based%20Design%20Workflows%20for%20Cyber-Physical%20Systems%20Applied%20to%20an%20Electric-Mechanical%20Coolant%20Pump.pdf).
@@ -15,9 +15,11 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 9.  **J. Kohl, A. Kotucz, J. Prenninger, A. Dorneich and S. Meinzer**: Using multivariate split analysis for an improved maintenance of automotive diagnosis functions. In *15th European Conference on Software Maintenance and Reengineering, pages 305–308. IEEE*, 2011. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2011%20Using%20multivariate%20split%20analysis%20for%20an%20improved%20maintenance%20of%20automotive%20diagnosis%20functions.pdf).
 10.  **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
   
-# Patents
+## Public talks
+1. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s) 
+ 
+## Patents
 
-**C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2021. Link: [German Patent Office](https://patentimages.storage.googleapis.com/a7/c7/cb/16b1c2d0049c53/DE102019134446A1.pdf).
-
-1 additional patent in application/ approval.
+1. **C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2021. Link: [German Patent Office](https://patentimages.storage.googleapis.com/a7/c7/cb/16b1c2d0049c53/DE102019134446A1.pdf).
+2. One patent in the domain of artificial intelligence pending/ in approval.
 <!-- ** P. Tiefenbacher, T. Billinger, J. Kohl**: Using Reinforcement Learning for the Emissioning of an automotive vehicle. -->
