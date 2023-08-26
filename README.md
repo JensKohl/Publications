@@ -16,10 +16,10 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 10.  **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
   
 ## Public talks
+
 1. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s) 
  
 ## Patents
 
-1. **C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2021. Link: [German Patent Office](https://patentimages.storage.googleapis.com/a7/c7/cb/16b1c2d0049c53/DE102019134446A1.pdf).
-2. One patent in the domain of artificial intelligence pending/ in approval.
-<!-- ** P. Tiefenbacher, T. Billinger, J. Kohl**: Using Reinforcement Learning for the Emissioning of an automotive vehicle. -->
+1. **C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2019. Link: [German Patent Office](https://patentimages.storage.googleapis.com/a7/c7/cb/16b1c2d0049c53/DE102019134446A1.pdf).
+2. ** P. Tiefenbacher, J. Kohl, T. Billinger**: Method for operating a motor vehicle having an internal combustion engine, control unit and motor vehicle (with reinforcement learning), 2021. Link: [German Patent Office}(https://patentimages.storage.googleapis.com/b0/86/60/f974de6b65fe5a/DE102021113982A1.pdf)
