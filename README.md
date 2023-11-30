@@ -2,6 +2,8 @@
 
 ## Peer- and non-peer reviewed papers
 
+<!-- Blog posts regarding SDV, PCR and GenAI  -->
+
 1. **T. Zerwas**, **G. Jacobs**, **L. Brand**, **S. Dehn**, **K. Spütz**, **G. Höpfner**, **C. Matz**, **C. Guist**, **J. Berroth**, **C. Konrad**, **J. Kohl**: 
 Customer-centric and function-oriented development of mechatronic systems, 2023. In *Forschung im Ingenieurwesen*, 2023. Link: [Springer Open Access](https://link.springer.com/article/10.1007/s10010-023-00658-7).
 2. **G. Höpfner, I. Nachmann, T. Zerwas, J. Berroth, J. Kohl, C. Guist, B. Rumpe, G. Jacobs**: Towards a holistic and functional model-based design method for mechatronic cyber-physical systems. In *Journal of Mechanical Design*, 2023. Link: [ASME Digital Collection](https://asmedigitalcollection.asme.org/computingengineering/article-abstract/doi/10.1115/1.4056807/1156489/Towards-a-Holistic-and-Functional-Model-Based).
