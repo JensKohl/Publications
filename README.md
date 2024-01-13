@@ -1,6 +1,6 @@
 # Publications
 
-## Peer- and non-peer reviewed papers
+## Peer- and non-peer reviewed publications
 
 <!-- Blog posts regarding SDV, PCR and GenAI  -->
 
@@ -17,7 +17,7 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 9.  **J. Kohl, A. Kotucz, J. Prenninger, A. Dorneich and S. Meinzer**: Using multivariate split analysis for an improved maintenance of automotive diagnosis functions. In *15th European Conference on Software Maintenance and Reengineering, pages 305–308. IEEE*, 2011. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2011%20Using%20multivariate%20split%20analysis%20for%20an%20improved%20maintenance%20of%20automotive%20diagnosis%20functions.pdf).
 10.  **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
   
-## Public talks
+## Selected public talks
 
 1. **J. Kohl**: Developing GenAI assistant to accelerate infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
 2. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
