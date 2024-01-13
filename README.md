@@ -19,9 +19,10 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
   
 ## Public talks
 
-1.   **J. Kohl**: Developing GenAI assistant to accelerate infrastructure optimization. Video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-2.   **J. Kohl**: Scaling end-2-end cloud governance. Video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-3.   **J. Kohl**: BMW Group's AI-based automotive Proactive Care workflow. Video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+1. **J. Kohl**: Developing GenAI assistant to accelerate infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+2. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+3. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Held at *AWS re:invent 2022*, video available under [link](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s), summary available under [link](https://aws.amazon.com/de/blogs/industries/bmw-group-uses-aws-ml-solutions-to-drive-personalized-customer-experiences/).
+4. **J. Kohl**: Vision for Engineering Workplace 2025. Held at *4th International IPS Cable Simulation Conference 2019*.
  
 ## Patents
 
