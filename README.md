@@ -16,7 +16,7 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 
 1. **J. Kohl, D. Engelhardt, N. Castro, S. Saxena, L. Zinovyeva, B. Jones, C. Mueller, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. In publication.
 2. **J. Kohl, D. Engelhardt, S. Kallin, M. Arrais, B. Jones, C. Müller**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. In publication.
-3. **J. Kohl, P. Altmann, C. Müller, S. Marzani**: A Software-Defined Vehicle (SDV) perspective: from duct-tape to efficient processes or how BMW is using the cloud to accelerate the development of automotive control units, 2024. In publication.
+3. **J. Kohl, P. Altmann, C. Müller, S. Marzani**: From duct-tape to efficient processes -  how BMW is using cloud as native development targets to scale the development of automotive control units. A Software-defined vehicle (SDV) perspective, 2024. In publication.
 4. **J. Kohl, G. Zylka, S. Khodjaev, M. Wallner**: How to build an automated test suite for large-language models (LLM) on Amazon Bedrock, 2024. In publication.
 5. **J. Kohl, S. Khodjaev, M. Wallner, G. Zylka**: Using Retrieval Augmented Generation to build customizable GenAI applications with proprietary knowledge bases, 2024. In publication.
 6. **J. Kohl, S. Kallin, P. Müller, S. Molau, W. Prasch, C. Müller, B. Jones**: The cloud migration of BMW Group’s Connected Company, 2024. In publication.
