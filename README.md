@@ -13,23 +13,20 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 9.  **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
 
 ## Non-peer reviewed publications
-
-1. **J. Kohl, D. Engelhardt, N. Castro, S. Saxena, L. Zinovyeva, B. Jones, C. Mueller, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. In publication.
-2. **J. Kohl, D. Engelhardt, S. Kallin, M. Arrais, B. Jones, C. Müller**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. In publication.
+1. **J. Kohl, D. Engelhardt, N. Castro, S. Saxena, L. Zinovyeva, B. Jones, C. Müller, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. TK 03/2024.
+2. **J. Kohl, D. Engelhardt, S. Kallin, M. Arrais, B. Jones, C. Müller**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. TK 03/2024.
 3. **J. Kohl, P. Altmann, C. Müller, S. Marzani**: From duct-tape to efficient processes -  how BMW is using cloud as native development targets to scale the development of automotive control units. A Software-defined vehicle (SDV) perspective, 2024. In publication.
-4. **J. Kohl, G. Zylka, S. Khodjaev, M. Wallner**: How to build an automated test suite for large-language models (LLM) on Amazon Bedrock, 2024. In publication.
-5. **J. Kohl, S. Khodjaev, M. Wallner, G. Zylka**: Using Retrieval Augmented Generation to build customizable GenAI applications with proprietary knowledge bases, 2024. In publication.
+4. **J. Kohl, S. Khodjaev, G. Zylka**: Using Retrieval Augmented Generation to build customizable GenAI applications with proprietary knowledge bases, 2024. In publication.
+5. **J. Kohl, G. Zylka, S. Khodjaev, M. Wallner**: How to build an automated test suite for large-language models (LLM) on Amazon Bedrock, 2024. In publication.
 6. **J. Kohl, S. Kallin, P. Müller, S. Molau, W. Prasch, C. Müller, B. Jones**: The cloud migration of BMW Group’s Connected Company, 2024. In publication.
 7.  **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems. *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf).
   
 ## Selected public talks
-
 1. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
 2. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
 3. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Held at *AWS re:invent 2022*, video available under [link](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
 4. **J. Kohl**: Vision for Engineering Workplace 2025. Held at *4th International IPS Cable Simulation Conference 2019*.
  
 ## Patents
-
 1. **P. Tiefenbacher, J. Kohl, T. Billinger**: Method for operating a motor vehicle having an internal combustion engine, control unit and motor vehicle (with reinforcement learning), 2021. Link: [German Patent Office](https://patentimages.storage.googleapis.com/b0/86/60/f974de6b65fe5a/DE102021113982A1.pdf).
 2. **C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2019. Link: [German Patent Office](https://patentimages.storage.googleapis.com/a7/c7/cb/16b1c2d0049c53/DE102019134446A1.pdf).
