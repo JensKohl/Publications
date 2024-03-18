@@ -13,7 +13,7 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 9.  **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
 
 ## Non-peer reviewed publications
-1. **J. Kohl, D. Engelhardt, N. Castro, S. Saxena, L. Zinovyeva, B. Jones, C. Müller, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. TK 03/2024.
+1. **J. Kohl, D. Engelhardt, N. Castro, S. Saxena, L. Zinovyeva, B. Jones, C. Müller, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. Link: [AWS Blog] (https://aws.amazon.com/de/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/).
 2. **J. Kohl, D. Engelhardt, S. Kallin, M. Arrais, B. Jones, C. Müller**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. TK 03/2024.
 3. **J. Kohl, P. Altmann, C. Müller, S. Marzani**: From duct-tape to efficient processes -  how BMW is using cloud as native development targets to scale the development of automotive control units. A Software-defined vehicle (SDV) perspective, 2024. In publication.
 4. **J. Kohl, S. Khodjaev, G. Zylka**: Using Retrieval Augmented Generation to build customizable GenAI applications with proprietary knowledge bases, 2024. In publication.
