@@ -14,7 +14,7 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 
 ## Non-peer reviewed publications
 1. **J. Kohl, D. Engelhardt, N. Castro, S. Saxena, L. Zinovyeva, B. Jones, C. Müller, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/).
-3. **J. Kohl, D. Engelhardt, S. Kallin, M. Arrais, B. Jones, C. Müller**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. TK 03/2024.
+3. **J. Kohl, D. Engelhardt, S. Kallin, M. Arrais, B. Jones, C. Müller**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/).
 4. **J. Kohl, P. Altmann, C. Müller, S. Marzani**: From duct-tape to efficient processes -  how BMW is using cloud as native development targets to scale the development of automotive control units. A Software-defined vehicle (SDV) perspective, 2024. In publication.
 5. **J. Kohl, S. Khodjaev, G. Zylka**: Using Retrieval Augmented Generation to build customizable GenAI applications with proprietary knowledge bases, 2024. In publication.
 6. **J. Kohl, G. Zylka, S. Khodjaev, M. Wallner**: How to build an automated test suite for large-language models (LLM) on Amazon Bedrock, 2024. In publication.
