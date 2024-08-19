@@ -15,13 +15,11 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 ## Non-peer reviewed publications
 1. **P. Altmann, J. Kohl, J. Frielinghaus, A. Gross, S. Marzani, C. Müller**: From duct-tape to efficient processes - how BMW is using the cloud as native development target to scale the development of automotive control units, 2024, in publication.
 2. **S. Kallin, S. Molau, J. Kohl, B. Jones, C. Müller**: How BMW Group migrated the BMW ConnectedDrive backend to AWS, 2024, in publication.
-3. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, L. Zinovyeva, N. Castro, S. Saxena, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/).
-4. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, M. Arrais, S. Kallin**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/).
-5. **J. Kohl, P. Altmann, C. Müller, S. Marzani**: From duct-tape to efficient processes -  how BMW is using cloud as native development targets to scale the development of automotive control units. A Software-defined vehicle (SDV) perspective, 2024. In publication.
-6. **J. Kohl, S. Khodjaev, G. Zylka**: Using Retrieval Augmented Generation to build customizable GenAI applications with proprietary knowledge bases, 2024. In publication.
-7. **J. Kohl, G. Zylka, S. Khodjaev, M. Wallner**: How to build an automated test suite for large-language models (LLM) on Amazon Bedrock, 2024. In publication.
-8. **J. Kohl, S. Kallin, P. Müller, S. Molau, W. Prasch, C. Müller, B. Jones**: The cloud migration of BMW Group’s Connected Company, 2024. In publication.
-9. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems. *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf).
+3. **J. Kohl, S. Khodjaev, G. Zylka**: Using Retrieval Augmented Generation to build customizable GenAI applications with proprietary knowledge bases, 2024. In publication.
+4. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, L. Zinovyeva, N. Castro, S. Saxena, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/).
+5. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, M. Arrais, S. Kallin**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/).
+6. **J. Kohl, S. Kallin, P. Müller, S. Molau, W. Prasch, C. Müller, B. Jones**: The cloud migration of BMW Group’s Connected Company, 2024. In publication.
+7. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems. *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf).
   
 ## Selected public talks
 1. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
