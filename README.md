@@ -21,7 +21,7 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 6. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems. *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf).
   
 ## Selected public talks
-1. **J.Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. Held at *AWS Deep Dive Days Generative AI October 2024*.
+1. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. Held at *AWS Deep Dive Days Generative AI October 2024*.
 2.  **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
 3. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. Held at *AWS Deep Dive Days Generative AI 2024*, slides available [here](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
 4. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
