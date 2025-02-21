@@ -1,4 +1,4 @@
-# Publications
+# Publications and talks
 
 ## Peer-reviewed publications
 1. **T. Zerwas**, **G. Jacobs**, **L. Brand**, **S. Dehn**, **K. Spütz**, **G. Höpfner**, **C. Matz**, **C. Guist**, **J. Berroth**, **C. Konrad**, **J. Kohl**: Customer-centric and function-oriented development of mechatronic systems, 2023. In *Forschung im Ingenieurwesen*, 2023. [Link](https://link.springer.com/article/10.1007/s10010-023-00658-7).
@@ -25,14 +25,14 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 ## Selected public talks
 1. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, Held at *AWS re:invent 2024*, video available under [Link](https://www.youtube.com/watch?v=ScTLkWMKfIs)
 2. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. Held at *AWS Deep Dive Days Generative AI October 2024*.
-3. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
-4. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. Held at *AWS Deep Dive Days Generative AI 2024*, slides available [here](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
-5. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-6. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-7. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Held at *AWS re:invent 2022*, video available under [link](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-8. **J. Kohl**: Vision for Engineering Workplace 2025. Held at *4th International IPS Cable Simulation Conference 2019*.
+4. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
+5. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. Held at *AWS Deep Dive Days Generative AI 2024*, slides available [here](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
+6. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+7. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+8. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Held at *AWS re:invent 2022*, video available under [link](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+9. **J. Kohl**: Vision for Engineering Workplace 2025. Held at *4th International IPS Cable Simulation Conference 2019*.
  
 ## Patents
 1. **P. Tiefenbacher, J. Kohl, T. Billinger**: Method for operating a motor vehicle having an internal combustion engine, control unit and motor vehicle (with reinforcement learning), 2021. Link: [German Patent Office](https://patentimages.storage.googleapis.com/b0/86/60/f974de6b65fe5a/DE102021113982A1.pdf).
 2. **C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2019. Link: [German Patent Office](https://patentimages.storage.googleapis.com/a7/c7/cb/16b1c2d0049c53/DE102019134446A1.pdf).
-4 patents about artificial intelligence pending.
+4 patents on artificial intelligence topics pending.
