@@ -37,4 +37,5 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 ## Patents
 1. **P. Tiefenbacher, J. Kohl, T. Billinger**: Method for operating a motor vehicle having an internal combustion engine, control unit and motor vehicle (with reinforcement learning), 2021. Link: [German Patent Office](https://patentimages.storage.googleapis.com/b0/86/60/f974de6b65fe5a/DE102021113982A1.pdf).
 2. **C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2019. Link: [German Patent Office](https://patentimages.storage.googleapis.com/a7/c7/cb/16b1c2d0049c53/DE102019134446A1.pdf).
-4 patents on artificial intelligence/ Generative AI topics pending.
+   
+14 patents on artificial intelligence/ Generative AI topics pending.
