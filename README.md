@@ -23,15 +23,16 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 8. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems, *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf) or [ArXiv](https://arxiv.org/abs/2104.00987)
   
 ## Selected public talks
-1. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. Held at *AWS Deep Dive Days Generative AI April 2025*.
-2. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, Held at *AWS re:invent 2024*, video available under [Link](https://www.youtube.com/watch?v=ScTLkWMKfIs).
-3. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. Held at *AWS Deep Dive Days Generative AI October 2024*.
-4. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
-5. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. Held at *AWS Deep Dive Days Generative AI 2024*, slides available [here](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
-6. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-7. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-8. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Held at *AWS re:invent 2022*, video available under [link](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-9. **J. Kohl**: Vision for Engineering Workplace 2025. Held at *4th International IPS Cable Simulation Conference 2019*.
+1. **T. Takher, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. To be held at *AWS Deep Dive Days – Generative AI Berlin October 2025*.
+2.  **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. Held at *AWS Deep Dive Days Generative AI April 2025*.
+3. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, Held at *AWS re:invent 2024*, video available under [Link](https://www.youtube.com/watch?v=ScTLkWMKfIs).
+4. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. Held at *AWS Deep Dive Days Generative AI October 2024*.
+5. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
+6. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. Held at *AWS Deep Dive Days Generative AI 2024*, slides available [here](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
+7. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+8. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+9. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Held at *AWS re:invent 2022*, video available under [link](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+10. **J. Kohl**: Vision for Engineering Workplace 2025. Held at *4th International IPS Cable Simulation Conference 2019*.
  
 ## Patents
 1. **P. Tiefenbacher, J. Kohl, T. Billinger**: Method for operating a motor vehicle having an internal combustion engine, control unit and motor vehicle (with reinforcement learning), 2021. Link: [German Patent Office](https://patentimages.storage.googleapis.com/b0/86/60/f974de6b65fe5a/DE102021113982A1.pdf).
