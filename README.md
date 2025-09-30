@@ -24,7 +24,7 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
   
 ## Selected public talks
 1. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. Held at *AWS Deep Dive Days Generative AI April 2025*.
-2. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, Held at *AWS re:invent 2024*, video available under [Link](https://www.youtube.com/watch?v=ScTLkWMKfIs)
+2. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, Held at *AWS re:invent 2024*, video available under [Link](https://www.youtube.com/watch?v=ScTLkWMKfIs).
 3. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. Held at *AWS Deep Dive Days Generative AI October 2024*.
 4. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
 5. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. Held at *AWS Deep Dive Days Generative AI 2024*, slides available [here](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
