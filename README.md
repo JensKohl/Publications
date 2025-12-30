@@ -24,16 +24,17 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 8. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems, *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf) or [ArXiv](https://arxiv.org/abs/2104.00987).
   
 ## Selected public talks
-1. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. Held at *AWS Deep Dive Days Generative AI Berlin October 2025*.
-2.  **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. Held at *AWS Deep Dive Days Generative AI April 2025*.
-3. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, Held at *AWS re:invent 2024*, video available under [Link](https://www.youtube.com/watch?v=ScTLkWMKfIs).
-4. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. Held at *AWS Deep Dive Days Generative AI October 2024*.
-5. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
-6. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. Held at *AWS Deep Dive Days Generative AI 2024*, slides available [here](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
-7. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-8. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-9. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Held at *AWS re:invent 2022*, video available under [link](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-10. **J. Kohl**: Vision for Engineering Workplace 2025. Held at *4th International IPS Cable Simulation Conference 2019*.
+1. **J. Kohl**: Automated structural testing of LLM-based agents, Held at *Google 3 Minutes of AI IRL München*, December, 2025.
+2. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. Held at *AWS Deep Dive Days Generative AI Berlin October 2025*.
+3.  **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. Held at *AWS Deep Dive Days Generative AI April 2025*.
+4. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, Held at *AWS re:invent 2024*, video available under [Link](https://www.youtube.com/watch?v=ScTLkWMKfIs).
+5. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. Held at *AWS Deep Dive Days Generative AI October 2024*.
+6. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. Held at *AWS Berlin Summit 2024*.
+7. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. Held at *AWS Deep Dive Days Generative AI 2024*, slides available [here](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
+8. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. Held at *AWS re:invent 2023*, video available [here](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+9. **J. Kohl**: Scaling end-2-end cloud governance. Held at *AWS re:invent 2023*, video available [here](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+10. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. Held at *AWS re:invent 2022*, video available under [link](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+11. **J. Kohl**: Vision for Engineering Workplace 2025. Held at *4th International IPS Cable Simulation Conference 2019*.
  
 ## Patents
 1. **A. Ganser, J. Kohl**: Method and System for Migrating Software/ Software-Codes between cloud systems, 2025. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020241132183).
