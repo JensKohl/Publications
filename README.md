@@ -14,32 +14,34 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 10.  **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
 
 ## Non-peer reviewed publications
-1. **M. Menzel, J. Kohl**: Small models, high quality: Inside BMW Group’s experiments evaluating domain-specific language models, 2026. Link: [Google Blog](https://cloud.google.com/blog/topics/manufacturing/how-bmw-is-testing-slms-not-llms-for-in-vehicle-voice-commands).
-2. **J. Wildgruber, J.Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. Link: [AWS Blog](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
-3. **P. Altmann, A. Gross, C. Müller, J. Kohl, J. Frielinghaus, L. Mödl, S. Marzani**: How BMW is using AWS as native development target to scale and automate embedded software development, 2025. Link: [AWS Blog](https://aws.amazon.com/de/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/).
-4. **J. Kohl, L. Gloger, R. Costa, O. Kruse, M. Luitz, D. Katz, G. Barbeito, M. Schweier, R. French, J. Schroeder, T. Riedl, R. Perri, Y. Mostafa**: Generative AI Toolkit - a framework for increasing the quality of LLM-based applications over their whole life cycle, *arXiv preprint arXiv:2412.14215*, 2024. Link: [Arxiv](https://arxiv.org/abs/2412.14215).
-5. **S. Kallin, S. Molau, J. Kohl, B. Jones, C. Müller**: How BMW Group migrated the BMW ConnectedDrive backend to AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead).
-6. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, L. Zinovyeva, N. Castro, S. Saxena, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/).
-7. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, M. Arrais, S. Kallin**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. Link: [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/).
-8. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems, *arXiv preprint arXiv:2104.00987*, 2021. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2021%20Bayesian%20Structural%20Learning%20for%20an%20Improved%20Diagnosis%20of%20Cyber-Physical%20Systems.pdf) or [ArXiv](https://arxiv.org/abs/2104.00987).
+1. **J. Kohl, L. Stappen, M. Haubold, V. Wenninger, B. Jones, V. Omeltchenko, A. Krishnan**: How the BMW Group Governs Hundreds of Agents across thousands of developers, 2026. TBP.
+2. **M. Menzel, J. Kohl**: Small models, high quality: Inside BMW Group’s experiments evaluating domain-specific language models, 2026. [Google Blog](https://cloud.google.com/blog/topics/manufacturing/how-bmw-is-testing-slms-not-llms-for-in-vehicle-voice-commands).
+3. **J. Wildgruber, J. Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. [AWS Blog](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
+4. **P. Altmann, A. Gross, C. Müller, J. Kohl, J. Frielinghaus, L. Mödl, S. Marzani**: How BMW is using AWS as native development target to scale and automate embedded software development, 2025. [AWS Blog](https://aws.amazon.com/de/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/).
+5. **J. Kohl, L. Gloger, R. Costa, O. Kruse, M. Luitz, D. Katz, G. Barbeito, M. Schweier, R. French, J. Schroeder, T. Riedl, R. Perri, Y. Mostafa**: Generative AI Toolkit - a framework for increasing the quality of LLM-based applications over their whole life cycle, *arXiv preprint arXiv:2412.14215*, 2024. [arXiv](https://arxiv.org/abs/2412.14215).
+6. **S. Kallin, S. Molau, J. Kohl, B. Jones, C. Müller**: How BMW Group migrated the BMW ConnectedDrive backend to AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/migration-and-modernization/accelerating-to-the-cloud-bmw-connecteddrives-migration-to-aws-and-lessons-for-the-road-ahead).
+7. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, L. Zinovyeva, N. Castro, S. Saxena, S. Khodjaev**: BMW Group develops a GenAI assistant to accelerate infrastructure optimization on AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/industries/bmw-group-develops-a-genai-assistant-to-accelerate-infrastructure-optimization-on-aws/).
+8. **J. Kohl, B. Jones, C. Müller, D. Engelhardt, M. Arrais, S. Kallin**: How BMW Group use automation to achieve end-to-end compliance at scale on AWS, 2024. [AWS Blog](https://aws.amazon.com/de/blogs/mt/how-bmw-group-uses-automation-to-achieve-end-to-end-compliance-at-scale-on-aws/).
+9. **N. Olivain, P. Tiefenbacher and J. Kohl**: Bayesian structural learning for an improved diagnosis of cyber-physical systems, *arXiv preprint arXiv:2104.00987*, 2021. [arXiv](https://arxiv.org/abs/2104.00987).
   
 ## Selected public talks
-1. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI, to be held at *Move MOBILITY RE-IMAGINED London 2026*.
-2. **J. Kohl, O. Kruse**: Automated Structural/ White-Box Testing of LLM-Based Agents, to be held at *EuroSTAR 2026*.
-3. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI, to be held at *European AI and software-defined vehicle summit 2026*.
-4. **J. Kohl**: Sports and artificial intelligence, held at *Professional Darts Corporation (PDC) Europe Poker Charity Turnier 2026*, 2026. [Slides](assets/docs/2026%20PDC%20Europe%20Darts%20Charity%20-%20Sports%20und%20AI.pdf).
-5. **J. Kohl**: Automated structural testing of LLM-based agents, held at *Google 3 Minutes of AI IRL München*, 2025.
-6. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. *AWS Deep Dive Days Berlin 2025*, 2025.
-7. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. *AWS Deep Dive Days April 2025*, 2025.
-8. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, *AWS re:Invent 2024*, 2024. [Video](https://www.youtube.com/watch?v=ScTLkWMKfIs).
-9. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. *AWS Deep Dive Days October 2024*, 2024.
-10. **J. Kohl, M. Tava**: Using Generative AI To Optimize Cloud Rooms Performance and Costs. *InfoQ Dev Summit*, 2024.
-11. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. *AWS Berlin Summit 2024*, 2024.
-12. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. *AWS Deep Dive Days 2024*, 2024. [Slides](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
-13. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:Invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
-14. **J. Kohl**: Scaling end-to-end cloud governance. *AWS re:Invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
-15. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:Invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
-16. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*, 2019.
+1. **L. Boos, F. Musazade, J. Kohl, J. Wagner**: BMW Group's Multi-Agent Approach to Testing Embedded Devices on AWS. *AWS Deep Dive Days Generative AI 2026*, 2026.
+2. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI, to be held at *Move MOBILITY RE-IMAGINED London 2026*.
+3. **J. Kohl, O. Kruse**: Automated Structural/ White-Box Testing of LLM-Based Agents, to be held at *EuroSTAR 2026*.
+4. **J. Kohl**: Optimizing automotive software development workflows with AI/ GenAI, to be held at *European AI and software-defined vehicle summit 2026*.
+5. **J. Kohl**: Sports and artificial intelligence, held at *Professional Darts Corporation (PDC) Europe Poker Charity Turnier 2026*, 2026. [Slides](assets/docs/2026%20PDC%20Europe%20Darts%20Charity%20-%20Sports%20und%20AI.pdf).
+6. **J. Kohl**: Automated structural testing of LLM-based agents, held at *Google 3 Minutes of AI IRL München*, 2025.
+7. **A. Krishnan, J. Kohl**: Accelerated Root Cause Analysis at BMW with Amazon Bedrock Agents. *AWS Deep Dive Days Berlin 2025*, 2025.
+8. **J. Kohl, Y. Mostafa, M. Radulescu Kober**: Evaluating and testing customer-facing Generative AI systems at scale. *AWS Deep Dive Days April 2025*, 2025.
+9. **O. Schnaack, K. Robins, J. Kohl**: BMW speeds car development with a new app for defect ticket routing, *AWS re:Invent 2024*, 2024. [Video](https://www.youtube.com/watch?v=ScTLkWMKfIs).
+10. **J. Kohl, L. Gloger, O. Kruse**: Increasing the quality of LLM-based agents by accelerating the feedback loop. *AWS Deep Dive Days October 2024*, 2024.
+11. **J. Kohl, M. Tava**: Using Generative AI To Optimize Cloud Rooms Performance and Costs. *InfoQ Dev Summit*, 2024.
+12. **J. Kohl, C. Müller**: How BMW scales the software-defined vehicle using cloud-native tools. *AWS Berlin Summit 2024*, 2024.
+13. **J. Kohl, C. Müller**: BMW Group accelerates cloud optimization using Amazon Bedrock. *AWS Deep Dive Days 2024*, 2024. [Slides](https://d1ybtq23qyanx7.cloudfront.net/_assets/local/slides/GenAIDeepDive2024_SES201_BMW_Group_accelerates_cloud_optimization_using_Amazon_Bedrock.pdf).
+14. **J. Kohl**: Developing GenAI assistant to accelerate cloud infrastructure optimization. *AWS re:Invent 2023*, 2023. [Video](https://youtu.be/1Lat8dP7Eq0?si=MHyavcQvHizv1Vy7&t=2453).
+15. **J. Kohl**: Scaling end-to-end cloud governance. *AWS re:Invent 2023*, 2023. [Video](https://www.youtube.com/watch?v=nu69JLkc0G8?si=J4G4mUOVnV7qVtGq&t=2332).
+16. **J. Kohl**: BMW Group's AI-based automotive Proactive Care Workflow. *AWS re:Invent 2022*, 2022. [Video](https://www.youtube.com/watch?v=SI2kk-4Jskk&t=250s).
+17. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*, 2019.
  
 ## Patents
 1. **A. Ganser, J. Kohl**: Method and System for Migrating Software/ Software-Codes between cloud systems, 2025. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020241132183).
