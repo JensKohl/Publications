@@ -14,7 +14,7 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 10.  **J. Kohl and A. Bauer**: Role-based diagnosis for distributed vehicle functions. In *Proceedings of the 21st International Workshop on the Principles of Diagnosis (DX)*, 2010. Link: [Github](https://github.com/JensKohl/Publications/blob/main/2010%20Role-Based%20Diagnosis%20for%20Distributed%20Vehicle%20Functions.pdf).
 
 ## Non-peer reviewed publications
-1. **J. Kohl, L. Stappen, M. Haubold, V. Wenninger, B. Jones, V. Omeltchenko, A. Krishnan**: How the BMW Group Governs Hundreds of Agents across thousands of developers, 2026. TBP.
+1. **J. Kohl, L. Stappen, M. Haubold, V. Wenninger, B. Jones, V. Omeltchenko, A. Krishnan**: How the BMW Group Governs Hundreds of Agents across thousands of developers, 2026. [AWS Blog](https://aws.amazon.com/blogs/machine-learning/how-the-bmw-group-governs-hundreds-of-agents-across-thousands-of-developers/).
 2. **M. Menzel, J. Kohl**: Small models, high quality: Inside BMW Group’s experiments evaluating domain-specific language models, 2026. [Google Blog](https://cloud.google.com/blog/topics/manufacturing/how-bmw-is-testing-slms-not-llms-for-in-vehicle-voice-commands).
 3. **J. Wildgruber, J. Kohl, T. Bindel, L. Gloger, T. Takher, O. Kruse, H. Vu, A. Krisnan, S. Saxena, K. Robins**: Innovating at speed: BMW's Generative AI solution for cloud incident analysis, 2025. [AWS Blog](https://aws.amazon.com/blogs/machine-learning/innovating-at-speed-bmws-generative-ai-solution-for-cloud-incident-analysis/).
 4. **P. Altmann, A. Gross, C. Müller, J. Kohl, J. Frielinghaus, L. Mödl, S. Marzani**: How BMW is using AWS as native development target to scale and automate embedded software development, 2025. [AWS Blog](https://aws.amazon.com/de/blogs/industries/how-bmw-uses-aws-to-scale-and-automate-sdv-with-virtual-ecus/).
@@ -44,8 +44,11 @@ Link: [TU Munich mediaserver](https://mediatum.ub.tum.de/doc/1080315/1080315.pdf
 17. **J. Kohl**: Vision for Engineering Workplace 2025. *4th International IPS Cable Simulation Conference 2019*, 2019.
  
 ## Patents
-1. **A. Ganser, J. Kohl**: Method and System for Migrating Software/ Software-Codes between cloud systems, 2025. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020241132183).
-2. **P. Tiefenbacher, J. Kohl, T. Billinger**: Method for operating a motor vehicle having an internal combustion engine, control unit and motor vehicle (with reinforcement learning), 2021. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020211139821).
-3. **C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2019. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020191344468).
+1. **M. Luitz, L. Gloger, J. Kohl**: Verfahren und Vorrichtung zur Übertragung von Testszenarien zwischen Software-Agenten, 2026. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020251075026).
+2. **L. Gloger, J. Kohl, M. Luitz**: Verfahren zum Testen einer Large-Language-Model-Anwendung, Computerprogramm, Vorrichtung und Fahrzeug, 2026. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020251075328).
+3. **J. Kohl, L. Gloger, M. Luitz**: Verfahren zur Fehlererkennung eines Fehlers einer Large-Language-Model-Anwendung, Computerprogramm, Vorrichtung und Fahrzeug, 2026. Link:  [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020251075417).
+4.  **A. Ganser, J. Kohl**: Method and System for Migrating Software/ Software-Codes between cloud systems, 2025. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020241132183).
+5. **P. Tiefenbacher, J. Kohl, T. Billinger**: Method for operating a motor vehicle having an internal combustion engine, control unit and motor vehicle (with reinforcement learning), 2021. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020211139821).
+6. **C. Guist, J. Kohl**: Process for the provision of a component by means of additive manufacturing/ Verfahren zur Bereitstellung eines Bauteils mittels additiver Fertigung, 2019. Link: [German Patent Office](https://register.dpma.de/DPMAregister/pat/register?AKZ=1020191344468).
    
-14 patents on artificial intelligence/ Generative AI topics pending.
+11 patents on artificial intelligence/ Generative AI topics pending.
